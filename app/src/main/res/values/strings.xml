@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTetris</string>
+    <string name="textStringWelcome">Welcome to my Tetris!</string>
+    <string name="btnPlayText">Let\'s Play!</string>
+</resources>
